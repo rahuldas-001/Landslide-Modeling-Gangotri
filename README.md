@@ -5,7 +5,7 @@ This repository contains code for modeling the landslide susceptibility of the U
 Overview
 
 
-Landslide susceptibility modeling is a critical tool for understanding and predicting landslide-prone areas. In this project, we use ANN and XGB machine learning algorithms to build a susceptibility model based on various causative factors influencing landslides in the Upper Bhagirathi basin. The model is evaluated using key performance metrics like precision, recall, and accuracy to ensure robustness.
+Landslide susceptibility modeling is a critical tool for understanding and predicting landslide-prone areas. In this project, we use ANN and XGB machine learning algorithms to build a susceptibility model based on various causative factors influencing landslides in the Upper Bhagirathi basin. The model is evaluated using key performance metrics like precision, recall, and accuracy to ensure robustness. All the data used in the modelling can be accessed from the drive link : https://drive.google.com/drive/folders/1ROxOoe7Q6TK48Qrg1my-8xIfvZ2cq2B3?usp=drive_link 
 
 Key Features
 
