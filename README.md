@@ -25,7 +25,16 @@ git clone https://github.com/rahuldas-001/Landslide-Model-Gangotri.git
 cd Landslide-Model-Gangotri
 
 ```
+## 📂 Data Access
 
+To access the input dataset required for this project, please use the following Google Drive link:
+
+🔗 [Click here to download the dataset]([https://drive.google.com/file/d/your_file_id/view?usp=sharing](https://drive.google.com/drive/folders/1ROxOoe7Q6TK48Qrg1my-8xIfvZ2cq2B3?usp=drive_link))
+
+> Make sure to download the dataset and place it in the appropriate folder (e.g., `data/`) b
+
+```
+```
 ## 🚀 Quick Start via Google Colab
 
 No installation needed! Run the model pipeline in your browser.
